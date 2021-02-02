@@ -15,7 +15,6 @@ git commit -m "label" file
 git status
 git log
 git show cid
-#how to create file
 
 touch file2 file3 file4 file5
 ls
@@ -50,8 +49,6 @@ git push
 
 
 
-Hello all Good Morning!
-Test msg from Trainer
 
 
 
