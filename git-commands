@@ -21,7 +21,8 @@ ls
 git status
 git add file2 file3 file4 file5
 or
-git add .
+git add . or filename or * or A
+Test data from DevOps Trainer
 or
 git add *
 or 
