@@ -21,7 +21,8 @@ ls
 git status
 git add file2 file3 file4 file5
 or
-git add .
+git add . or filename or * or A
+Test data from DevOps Trainer
 or
 git add *
 or 
@@ -33,7 +34,7 @@ git status
 git log
 
 
-git reset HEAD file-name  (staging to workspace)
+git reset HEAD file1 file2 file3 file4  (staging to workspace)
 git reset --soft cid  (local to staging)
 git reset --mixed cid  (local to workspace)
 git reset --hard cid  (delete)
@@ -47,9 +48,9 @@ git add prasad
 git commit -m "sample commit" prasad
 git push
 
+test line from prasad
 
-
-
+test line  surendra
 
 
 
